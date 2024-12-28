@@ -1,5 +1,4 @@
 import java.io.*;
-import java.util.*;
 
 class MinimumSwapsKtogether {
     public static void main(String[] args) throws IOException {
